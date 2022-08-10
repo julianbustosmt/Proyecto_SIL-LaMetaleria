@@ -1,0 +1,26 @@
+.btn {
+    border: 1px solid var(--secundary);
+    background-color: var(--primary);
+    color: var(--text-secundary);
+    font-weight: 600;
+    width: 8.3rem;
+    min-height: 40px;
+}
+
+.btn-2{
+    background-color: var(--secundary);
+    color: var(--primary);
+    font-size: 0.87rem;
+}
+
+.btn-a{
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+}
+
+.btn-2:hover{
+    border: 1px solid var(--secundary);
+    background-color: var(--primary);
+    color: var(--text-secundary);
+}
