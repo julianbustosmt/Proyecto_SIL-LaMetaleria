@@ -167,6 +167,11 @@ header {
     font-weight: 700;
 }
 
+.form-contact p{
+    color: var(--text-primary);
+    font-weight: 400;
+}
+
 .form {
     display: flex;
     flex-direction: column;
